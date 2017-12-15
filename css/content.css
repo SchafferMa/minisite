@@ -1,0 +1,12 @@
+.content-article-margin{
+    margin-top:50px
+}
+.content-article-indent{
+    text-indent: 2em
+}
+.content-article-indent>p{
+    margin-bottom:40px
+}
+.content-article-indent>p:last-child{
+    margin-bottom:20px
+}

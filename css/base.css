@@ -1,0 +1,8 @@
+.def-navbar-right{
+    padding-right:0 !important;
+}
+footer{
+    background:#f5f5f5;
+    border-top:1px solid #ddd;
+    padding:10px;
+}
